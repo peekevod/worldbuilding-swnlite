@@ -14,7 +14,38 @@
       "min": 0,
       "max": 5
     },
-    "attributes": {},
+    "attributes": {
+      "strength": {
+        "value": 10
+      },
+      "strength_mod": {
+        "value": 0
+      },
+      "dexterity": {
+        "value": 10
+      },
+      "dexterity_mod": {
+        "value": 0
+      },
+      "intelligence": {
+        "value": 10
+      },
+      "intelligence_mod": {
+        "value": 0
+      },
+      "wisdom": {
+        "value": 10
+      },
+      "wisdom_mod": {
+        "value": 0
+      },
+      "charisma": {
+        "value": 10
+      },
+      "charisma_mod": {
+        "value": 0
+      }
+    },
     "groups": {}
   }
 },
