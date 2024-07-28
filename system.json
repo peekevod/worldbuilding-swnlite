@@ -35,5 +35,5 @@
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
   "manifest": "https://raw.githubusercontent.com/peekevod/worldbuilding-swnlite/master/system.json",
-  "download": "https://github.com/peekevod/worldbuilding-swnlite/archive/refs/tags/release00.zip"
+  "download": "https://github.com/peekevod/worldbuilding-swnlite/archive/refs/tags/release01.zip"
 }
